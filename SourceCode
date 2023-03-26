@@ -57,5 +57,5 @@ while True:
             pyautogui.scroll(400)
             pyautogui.sleep(0.5)
 
-    cv2.imshow('Omara', frame)
+    cv2.imshow('Frame', frame)
     cv2.waitKey(1)
